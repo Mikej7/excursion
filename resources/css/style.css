@@ -6,6 +6,7 @@ html {
 h1 {
     font-size:50px;
   color:white;
+  font-weight:normal;
 }
   .link1 {
     font-size:16px;
@@ -28,5 +29,5 @@ h3 {
 .footer {
   text-align:right;
   color:gray;
-  
+
 }
